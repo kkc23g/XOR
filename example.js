@@ -1,3 +1,4 @@
 function printHello() {
-	document.getElementByID("demo").innerHTML = 'Hello';
+	var final = 12;
+	return final;
 }
